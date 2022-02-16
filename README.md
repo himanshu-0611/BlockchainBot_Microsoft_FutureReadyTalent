@@ -2,7 +2,7 @@
  **By Himanshu Agarkar**
  \
  \
- YouTube Video (Proof of use of Azure Services for Project):
+ **YouTube Video (Proof of use of Azure Services for Project):**
  \
  https://youtu.be/PJ2vfA2gcag
 ## Project Steps:
