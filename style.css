@@ -1,0 +1,32 @@
+*{
+    font-family: Poppins, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-sizing: border-box;
+    }
+body{
+    
+    max-width: 900px;
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+a:link, a:visited {
+    color: cyan;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    float: left;
+}
+nav{
+    background-color: white;
+    overflow: hidden;
+}
+nav a:hover{
+    color: cyan;
+}
+.highlight{
+    background-color: rgb(109, 214, 214);
+    color: black;
+}
