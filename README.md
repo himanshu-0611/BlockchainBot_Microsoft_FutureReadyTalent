@@ -1,6 +1,10 @@
 # BlockchainBot_Microsoft_FutureReadyTalent
  **By Himanshu Agarkar**
-
+ \
+ \
+ YouTube Video (Proof of use of Azure Services for Project):
+ \
+ https://youtu.be/PJ2vfA2gcag
 ## Project Steps:
 ### Step 1: Create a resource group under QnA maker in Azure Portal
 \
